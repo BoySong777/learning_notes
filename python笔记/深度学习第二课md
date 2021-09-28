@@ -68,9 +68,11 @@ $$
 
 从激活函数方面讲，在神经网络中如果每层激活函数都是线性的，那么整个网络就是一个线性网络，既使这个网络非常深。
 
- 	<img src="E:\TyporaResources\Image\image-20210924153013374.png" alt="image-20210924153013374" style="zoom:50%;" />
+![image-20210924153049763](..\TyporaResources\Image\image-20210924153049763.png)
 
-![image-20210924153049763](E:\TyporaResources\Image\image-20210924153049763.png)
+
+
+<img src="E:\TyporaResources\Image\image-20210924153013374.png" alt="image-20210924153049763" style="zoom:50%;" />
 
 - dropout（随机失活）正则化：个人理解，就是对神经网络中的节点设置失效的概率，一个节点可能会被剔除，把一些节点剔除后，整个神经网络就会变得相对简单，则不容易出现过度拟合的情况
 
@@ -120,7 +122,6 @@ $$
   \mu = \frac{1}{m}\sum_{i=1}^{m}X^{(i)}\\
   X = X - \mu
   $$
-  
 
 <img src="E:\TyporaResources\Image\image-20210927145239879.png" alt="image-20210927145239879" style="zoom:50%;" />
 
