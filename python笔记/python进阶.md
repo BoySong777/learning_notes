@@ -16,7 +16,7 @@
 
 - 绘图步骤
 
-  - <img src="E:\TyporaResources\Image\image-20210922162822844.png" alt="image-20210922162822844" style="zoom:60%;" />
+  - <img src="../TyporaResources/Image/image-20210922162822844.png" alt="image-20210922162822844" style="zoom:60%;" />
 
   
 
@@ -26,49 +26,51 @@
 
   #### scatter
 
-  ![image-20210922185654579](E:\TyporaResources\Image\image-20210922185654579.png)
+  ![image-20210922185654579](../TyporaResources/Image/image-20210922185654579.png)
+  
+  ![image-20210928180237646](../TyporaResources/Image/image-20210928180237646.png)
 
 ### numpy
 
 ####   zeros
 
-- ![image-20210922165343914](E:\TyporaResources\Image\image-20210922165343914.png)
+- ![image-20210922165343914](../TyporaResources/Image/image-20210922165343914.png)
 
 #### linspace
 
-- ![image-20210922170311770](E:\TyporaResources\Image\image-20210922170311770.png)
+- ![image-20210922170311770](../TyporaResources/Image/image-20210922170311770.png)
 
 #### squeeze
 
-- ![image-20210922185234146](E:\TyporaResources\Image\image-20210922185234146.png)
+- ![image-20210922185234146](../TyporaResources/Image/image-20210922185234146.png)
 
 #### dot
 
-- ![image-20210922194729590](E:\TyporaResources\Image\image-20210922194729590.png)
+- ![image-20210922194729590](../TyporaResources/Image/image-20210922194729590.png)
 
 #### mean
 
-- ![image-20210922203820478](E:\TyporaResources\Image\image-20210922203820478.png)
+- ![image-20210922203820478](../TyporaResources/Image/image-20210922203820478.png)
 
 ####  multiply
 
-- ![image-20210922204804416](E:\TyporaResources\Image\image-20210922204804416.png)
+- ![image-20210922204804416](../TyporaResources/Image/image-20210922204804416.png)
 
 #### power
 
-- ![image-20210922213123987](E:\TyporaResources\Image\image-20210922213123987.png)
+- ![image-20210922213123987](../TyporaResources/Image/image-20210922213123987.png)
 
 #### sum
 
-- ![image-20210922214538304](E:\TyporaResources\Image\image-20210922214538304.png)
+- ![image-20210922214538304](../TyporaResources/Image/image-20210922214538304.png)
 
 #### sqrt   exp   square
 
-- ![image-20210923141957920](E:\TyporaResources\Image\image-20210923141957920.png)
+- ![image-20210923141957920](../TyporaResources/Image/image-20210923141957920.png)
 
 #### divide
 
-- ![image-20210923152600694](E:\TyporaResources\Image\image-20210923152600694.png)
+- ![image-20210923152600694](../TyporaResources/Image/image-20210923152600694.png)
 
-  ![image-20210923152633927](E:\TyporaResources\Image\image-20210923152633927.png)
+  ![image-20210923152633927](../TyporaResources/Image/image-20210923152633927.png)
 

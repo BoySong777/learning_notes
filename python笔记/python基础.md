@@ -8,7 +8,7 @@
 
 - #### 编码的概念
 
-  ![image-20210901103532422](E:\TyporaResources\Image\image-20210901103532422.png)
+  ![image-20210901103532422](../TyporaResources/Image/image-20210901103532422.png)
 
   - python解释器默认以utf-8编码打开文件。如果需要更改编码方式：在文件头加上  
 
@@ -79,25 +79,25 @@
 
   - str 转 bool：bool("abc") = True;   <font color=red>bool("  ") = True; bool("") = False;</font>
 
-    ![image-20210901121713959](E:\TyporaResources\Image\image-20210901121713959.png)
+    ![image-20210901121713959](../TyporaResources/Image/image-20210901121713959.png)
 
   - 变量命名规范：
 
-    ![image-20210901132552677](E:\TyporaResources\Image\image-20210901132552677.png)
+    ![image-20210901132552677](../TyporaResources/Image/image-20210901132552677.png)
 
   - 变量命名建议：
 
-    ![image-20210901132720079](E:\TyporaResources\Image\image-20210901132720079.png)
+    ![image-20210901132720079](../TyporaResources/Image/image-20210901132720079.png)
 
   - 注释：
 
-    ![image-20210901133423461](E:\TyporaResources\Image\image-20210901133423461.png)
+    ![image-20210901133423461](../TyporaResources/Image/image-20210901133423461.png)
 
     - 注释快捷键：Ctrl+？（单行注释）
 
     - 输入函数：
 
-      ![image-20210901133942747](E:\TyporaResources\Image\image-20210901133942747.png)
+      ![image-20210901133942747](../TyporaResources/Image/image-20210901133942747.png)
 
   - 条件语句
 
@@ -349,10 +349,10 @@ print(msg6)
 - unicode编码：也叫万国码，为了使全世界的编码统一儿创造出来的编码，分为两种，一是ucs2，占用两个字节；二是ucs4，占用四个字节。
 - unicode编码因为它比较浪费空间，一般不用做网络传输和存储，但是经常会在内存中使用，因为它位数固定，比较方便。
 - utf-8：本质是unicode编码的压缩版，一般用于文件存储和网络传输。 在utf-8中，汉字一般占用3个字节
-- ![image-20210904173923562](E:\TyporaResources\Image\image-20210904173923562.png)
+- ![image-20210904173923562](../TyporaResources/Image/image-20210904173923562.png)
 - python中有字符串和字节，一般在存储一个字符串时，先把字符串转换为字节，再传输到文件中去。
 
-![image-20210904175052860](E:\TyporaResources\Image\image-20210904175052860.png)
+![image-20210904175052860](../TyporaResources/Image/image-20210904175052860.png)
 
 ### 第五节课
 
@@ -362,48 +362,48 @@ print(msg6)
   
 - str的特性：
 
-  ![image-20210905152118207](E:\TyporaResources\Image\image-20210905152118207.png)
+  ![image-20210905152118207](../TyporaResources/Image/image-20210905152118207.png)
 
 
 
-![image-20210905153701765](E:\TyporaResources\Image\image-20210905153701765.png)
+![image-20210905153701765](../TyporaResources/Image/image-20210905153701765.png)
 
 - <font color=red>python中提供了很多对str从右往左的操作，这一点就明显体现出了他的灵活性</font>
 
 
 
-![image-20210905154158523](E:\TyporaResources\Image\image-20210905154158523.png)
+![image-20210905154158523](../TyporaResources/Image/image-20210905154158523.png)
 
 - str 拼接字符串功能 :join
 
-  ![image-20210905154637620](E:\TyporaResources\Image\image-20210905154637620.png)
+  ![image-20210905154637620](../TyporaResources/Image/image-20210905154637620.png)
 
 - 将字符串转换为字节码，一般情况下，如果想把str进行网络传输或者保存在文件中，需要转换成字节码，比较节省空间。
 
-  ![image-20210905160647019](E:\TyporaResources\Image\image-20210905160647019.png)
+  ![image-20210905160647019](../TyporaResources/Image/image-20210905160647019.png)
 
 - 字节转字符串
 
-  ![image-20210905160841873](E:\TyporaResources\Image\image-20210905160841873.png)
+  ![image-20210905160841873](../TyporaResources/Image/image-20210905160841873.png)
 
-- ![image-20210905161120687](E:\TyporaResources\Image\image-20210905161120687.png)
+- ![image-20210905161120687](../TyporaResources/Image/image-20210905161120687.png)
 
-- ![image-20210905162437937](E:\TyporaResources\Image\image-20210905162437937.png)
+- ![image-20210905162437937](../TyporaResources/Image/image-20210905162437937.png)
 
-![image-20210905162821028](E:\TyporaResources\Image\image-20210905162821028.png)
+![image-20210905162821028](../TyporaResources/Image/image-20210905162821028.png)
 
 - 判断字符串是否可以转换为整型（浮点型会报错） decimal 十进制的
-- ![image-20210905163429535](E:\TyporaResources\Image\image-20210905163429535.png)
+- ![image-20210905163429535](../TyporaResources/Image/image-20210905163429535.png)
 
-- ![image-20210905164628477](E:\TyporaResources\Image\image-20210905164628477.png)
+- ![image-20210905164628477](../TyporaResources/Image/image-20210905164628477.png)
 
 strip   v 脱去，剥开
 
-- ![image-20210905173147912](E:\TyporaResources\Image\image-20210905173147912.png)
+- ![image-20210905173147912](../TyporaResources/Image/image-20210905173147912.png)
 
-![image-20210905173412246](E:\TyporaResources\Image\image-20210905173412246.png)
+![image-20210905173412246](../TyporaResources/Image/image-20210905173412246.png)
 
-![image-20210905174727860](E:\TyporaResources\Image\image-20210905174727860.png)
+![image-20210905174727860](../TyporaResources/Image/image-20210905174727860.png)
 
 - 字符串创建之后不能被修改，如果需要修改一般就是删除重建。
 - list:列表类型，用于存储一些数据的容器，有序，可修改，可放置不同类型的数据
@@ -447,7 +447,7 @@ strip   v 脱去，剥开
 
   
 
-![1](E:\TyporaResources\Image\1.png)
+![1](../TyporaResources/Image/1.png)
 
 - 人工智能、机器学习和深度学习的区别和联系
 
